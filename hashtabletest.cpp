@@ -1,3 +1,8 @@
+/*
+	Author: Aldanis Vigo
+	Date: 11/13/2017
+	Description: Hash Table Example 
+*/
 #include <cctype>
 #include <climits>
 #include <iostream>
